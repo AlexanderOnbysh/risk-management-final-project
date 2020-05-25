@@ -3,4 +3,4 @@
 ## Risk Management course, UCU
 
 
-
+.ipynb_checkpoints
