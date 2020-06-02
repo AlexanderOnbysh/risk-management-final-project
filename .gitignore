@@ -1,3 +1,4 @@
 *.xlsx
 .csv
 UCU_Project_Options.pdf
+.ipynb_checkpoints
