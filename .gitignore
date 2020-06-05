@@ -1,4 +1,6 @@
 *.xlsx
-.csv
+OptionPrices_2015_m1_m6.csv
+OptionPrices_2015_m7_m12.csv
+OptionPrices_2016.csv
 UCU_Project_Options.pdf
 .ipynb_checkpoints
